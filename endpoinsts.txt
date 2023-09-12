@@ -1,0 +1,22 @@
+meals endpoint all crud operations:
+http://127.0.0.1:8000/api/meals/
+
+---------------------------------------------------------------------------------
+
+ratings endpoint all crud operations:
+http://127.0.0.1:8000/api/ratings/
+
+---------------------------------------------------------------------------------
+
+rate_meal_or_create_new_rate create and update only:
+http://127.0.0.1:8000/api/meals/5/rate_meal/
+
+---------------------------------------------------------------------------------
+
+token request by username and password:
+http://127.0.0.1:8000/tokenrequest/
+
+---------------------------------------------------------------------------------
+
+create new user and this return with a token
+http://127.0.0.1:8000/api/users/
